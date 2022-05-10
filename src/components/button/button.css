@@ -1,0 +1,33 @@
+.all{
+    font-family: 'Josefin Sans', sans-serif;
+    padding:15px 150px;
+    background-color: black;
+    color:white;
+    transition: 1s;
+    transition-timing-function:ease-in;
+ 
+}
+.all:hover{
+    color:black;
+    background-color: rgb(201, 201, 201);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
+
+.butt{
+    margin: 70px 0px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+
+@media only screen and (max-width: 700px) {
+ 
+.all{
+padding: 14px 110px;
+}
+      }

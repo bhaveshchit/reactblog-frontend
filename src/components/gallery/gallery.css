@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+.imagess{
+ margin-top: 10px;
+max-width: 80%;
+margin-left: 110px;
+}
+.im{
+
+    padding: 10px;
+    width:200px;
+    height:200px;
+
+
+}
+h6{
+margin-left: 40px;
+    font-family: 'Quicksand', sans-serif;
+}
+    .im{
+
+        padding: 10px;
+        width:200px;
+        height:200px;
+    
+    
+    }
+
+
+
+@media only screen and (max-width: 700px) {
+   
+
+.imagess{
+    margin-left: 20px;
+    max-width: 90%;
+}
+.im{
+
+    padding: 10px;
+    width:200px;
+    height:150px;
+
+
+}
+
+
+      }

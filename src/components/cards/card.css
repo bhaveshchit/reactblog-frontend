@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@250&display=swap');
+.card-image{
+    max-width: 100%;
+}
+.card-row{
+   
+    margin-top: 15px;
+}
+.card-top{
+    display: flex;
+    margin-top: 10px;
+    
+    align-items: center;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+.cardUserImage{
+ width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border:black solid 1px;
+}
+
+ul{
+    list-style: none;
+    margin-left: -10px;
+}
+.card-li{
+    cursor: pointer;
+    color: rgb(11, 11, 11);
+}
+.card-content{
+    margin-top: 40px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    word-spacing: 10px;
+    max-width: 80%;
+}
+.card-para{
+    font-weight: 500;
+    word-spacing: 5px;
+}

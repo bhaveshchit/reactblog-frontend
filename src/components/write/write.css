@@ -1,0 +1,76 @@
+
+.b-im{
+    width:90vw;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 30px;
+   
+}
+
+.writeicon{
+ font-size: 30px;
+ margin-left: 50px;
+ cursor:pointer;
+ margin-top: 30px;
+ color:black;
+}
+.writes{
+margin-left: 40px;
+border: none;
+width: 50vw;
+font-size: 18px;
+}
+.writes:focus{
+    outline: none;
+}
+.writesss{
+    margin-left: 200px;
+border: none;
+width: 50vw;
+font-size: 18px;
+margin-top: 30px;
+
+}
+.ttt{
+    margin-left: 100px;
+    margin-top: 40px;
+    width: 70vw;
+    border: none;
+    margin-bottom: 28px;
+}
+.s-bb{
+    margin-top: 50px;
+width: 20vw;
+    border: none;
+    padding: 10px 10px;
+    color: white;
+    text-align: center;
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+.ttt:focus{
+    outline: none;
+}
+
+.writesss:focus{
+    outline: none;
+}
+
+@media only screen and (max-width: 700px) {
+ 
+   .b-im{
+    width:90vw;
+       margin-left: 19px;
+   }
+
+   .writesss{
+    margin-left: 100px;
+    margin-top: 60px;
+
+   }
+
+          }
+
+
+        
